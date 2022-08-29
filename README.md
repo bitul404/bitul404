@@ -115,7 +115,5 @@
 [![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=bitul404-Cyber&theme=react-dark&area=true&hide_border=true)](https://github.com/bitul404-Cyber/github-readme-activity-graph)
 
 
-<a href="https://github.com/bitul404/FREE-PUBLIC"><img title="FREE-PUBLIC" src="https://github-readme-stats.vercel.app/api/pin/?username=bitul404&repo=FREE-PUBLIC&theme=gotham"></a>
 <a href="https://github.com/bitul404/MR_VAU"><img title="MR_VAU" src="https://github-readme-stats.vercel.app/api/pin/?username=bitul404&repo=MR_VAU&theme=gotham"></a>
 <a href="https://github.com/bitul404/Fuck-BITUL"><img title="Fuck-BITUL" src="https://github-readme-stats.vercel.app/api/pin/?username=bitul404&repo=Fuck-BITUL&theme=gotham"></a>
-<a href="https://github.com/bitul404/CALCULATOR"><img title="CALCULATOR" src="https://github-readme-stats.vercel.app/api/pin/?username=bitul404&repo=CALCULATOR&theme=gotham"></a>
