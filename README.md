@@ -74,7 +74,7 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
 [![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/bitul115/)
-[![Whats App](https://img.shields.io/badge/Whats app-green?style=for-the-badge&logo=Whats app)](https://wa.me/+8801903624823)
+[![Whatsapp](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=Whatsapp)](https://wa.me/+8801903624823)
 [![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/ITS.MR.BITUL)
 [![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/ITS.MR.BITUL)
 
