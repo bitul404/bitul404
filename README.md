@@ -43,7 +43,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- NAIM,RISAT,TOUFIQ AND SAHARIYAN
+- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- 𝚁𝙸𝚂𝙰𝚃 𝙰𝙽𝙳 𝚃𝙾𝚄𝙵𝙸𝚀
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ☞︎︎︎ 𝙸𝙽𝚂𝙻𝙸𝚁𝙰𝚃𝙸𝙾𝙽 :- 𝙼𝚈𝚂𝙴𝙻𝙵
@@ -54,7 +54,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝙱𝚕𝚊𝚗𝚔 𝚄𝚜𝚎𝚛](https://www.facebook.com/useless3490)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [𝙱𝚕𝚊𝚗𝚔 𝚄𝚜𝚎𝚛](https://www.facebook.com/ITS.ME.MR.VAU)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -77,9 +77,9 @@
 
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=Whatsapp)](https://wa.me/+8801903624823)
 
-[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/ITS.MR.BITUL)
+[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/ITS.ME.MR.VAU)
 
-[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/ITS.MR.BITUL)
+[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/ITS.ME.MR.VAU)
 
 ### ⚙️ &nbsp; 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
 
